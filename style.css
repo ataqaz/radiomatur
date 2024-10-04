@@ -1,9 +1,14 @@
 body {
+  background-image: url("fon.png");
+  backdrop-filter: blur(8px);
+  background-size: auto; 
+  filter: brightness(90%);
   align-items: center;
   display: flex;
   justify-content: center;
   height: 100vh;
   margin: 0;
+  
 }
 .botón {
   align-items: center;
@@ -632,3 +637,4 @@ body {
     left: -20px;
   }
 }
+
