@@ -1,14 +1,10 @@
 body {
-  background-image: url("fon.png");
-  backdrop-filter: blur(8px);
-  background-size: auto; 
-  filter: brightness(90%);
+  background: #F4F7EE;
   align-items: center;
   display: flex;
   justify-content: center;
   height: 100vh;
   margin: 0;
-  
 }
 .botón {
   align-items: center;
@@ -600,8 +596,7 @@ body {
 
 
 .four {
-  background-size: cover; 
-  /* background: #F4F7EE; */
+  background: #F4F7EE;
   padding: 50px 20px;
   text-align: center;
 } 
